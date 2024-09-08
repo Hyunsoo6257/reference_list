@@ -23,8 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 
-# Firebase cache
-.firebase
+/src/firebase.ts
 
 # Firebase admin keys or other sensitive data
 serviceAccountKey.json
